@@ -1,5 +1,5 @@
 # Canonical URI
-Canonical: https://cs.co/security.txt
+Canonical: https://cs.co/security_txt
 
 # Our security address
 Contact: mailto:psirt@cisco.com
