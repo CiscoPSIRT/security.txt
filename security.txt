@@ -1,0 +1,13 @@
+# Canonical URI
+Canonical: https://cs.co/security.txt
+
+# Our security address
+Contact: mailto:psirt@cisco.com
+
+# Our OpenPGP key
+Encryption: https://tools.cisco.com/cscrdr/security/center/files/Cisco_PSIRT_0BE0457A.asc
+
+# Our security policy
+Policy: https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html
+
+Expires: Sun, 20 Apr 2025 05:59 -0400
